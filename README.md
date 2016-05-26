@@ -5,13 +5,9 @@ https://inclass.kaggle.com/c/2bhackathon-ecommerce/data
 Three data sets are provided:
 #Data set 1
 Collected from 1,000 installations (random selection)
-
 7-day time range; May 3rd 2015 ~ May 9th 2015
-
 1.1 GB after decompression (306 MB compressed)
-
 web logs: 2,879,939
-
 detection logs: 84,200
 
 #Data Set 2
