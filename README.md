@@ -6,9 +6,7 @@
 ##### Cross-disciplinary data repositories, data collections and data search engines:
 
 [http://usgovxml.com](http://usgovxml.com)
-
 [http://aws.amazon.com/datasets](http://aws.amazon.com/datasets)
-
 http://databib.org
 
 http://datacite.org
